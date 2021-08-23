@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff941643-6581-47ef-82a1-0fa6a32e3b59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-    </list>
+    <list default="true" id="ff941643-6581-47ef-82a1-0fa6a32e3b59" name="Changes" comment="dasdas" />
+    <list id="e5b1fdf3-a605-45ca-9ef4-d35e952f2f82" name="Changes by Lauty" comment="Changes by Lauty" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1x9AZHZeRHYib2R3vDE1b2Kof6f" />
@@ -38,11 +38,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629756985447</updated>
-      <workItem from="1629756987118" duration="1824000" />
+      <workItem from="1629756987118" duration="2135000" />
     </task>
+    <task id="LOCAL-00001" summary="dasdas">
+      <created>1629759087713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629759087713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes by Lauty">
+      <created>1629759118282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629759118282</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dasdas" />
+    <MESSAGE value="Changes by Lauty" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes by Lauty" />
   </component>
 </project>
